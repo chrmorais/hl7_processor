@@ -1,0 +1,49 @@
+MSH|^~\&|TDL Messaging|TDL|Receiving App|Receiving facility|201402111824||ORU^R01|201402111824230014M005953CUROSEVEN|T|2.3.1|||AL|||||
+PID|||WS05417867||INDERGAARD^OVE^^^||19760131|M|||^^^^|||||||||||||||||||
+PV1|||CUROSEVEN^CUROSEVEN||||||DR TASMIN LEWIS|||||||||||||||||||||||||||||||||||
+ORC|RE||0014M005953||A||||201402111824|||||||||||
+OBR|1||0014M005953|LYSS^LYMPHOCYTE SUB-SETS^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|LYSS^LYMPHOCYTE IMMUNOPHENOTYPE^WinPath^HAEMATOLOGY^1^0||.||||||F|||||
+OBR|1||0014M005953|FE^IRON^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|FE^IRON^WinPath^BIOCHEMISTRY^1^1||23.6|umol/L|||||F|||||
+OBX|2|NM|TIBC^T.I.B.C^WinPath^BIOCHEMISTRY^2^2||61|umol/L|||||F|||||
+OBX|3|NM|FESA^TRANSFERRIN SATURATION^WinPath^BIOCHEMISTRY^3^3||39|%|||||F|||||
+OBR|1||0014M005953|FERR^FERRITIN^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|FERR^FERRITIN^WinPath^BIOCHEMISTRY^1^4||308|ug/L|||||F|||||
+OBR|1||0014M005953|CRP^C REACTIVE PROTEIN^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|CRP^C Reactive protein^WinPath^BIOCHEMISTRY^1^5||<0.6|mg/L|||||F|||||
+OBR|1||0014M005953|DHEA^D.H.E.A. SULPHATE^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|DHEA^D.H.E.A. Sulphate^WinPath^ENDOCRINOLOGY^1^6||4.9|umol/L|||||F|||||
+OBR|1||0014M005953|VITD^VITAMIN D^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|VIDC^25 OH Vitamin D^WinPath^ENDOCRINOLOGY^1^7||79|nmol/L|||||F|||||
+NTE|1|Interpretation of results:|
+NTE|2|Deficient                 <25 nmol/L|
+NTE|3|Insufficient          25 - 49 nmol/L|
+NTE|4|Normal Range         50 - 200 nmol/L|
+NTE|5|Consider reducing dose   >200 nmol/L|
+OBR|1||0014M005953|INSU^INSULIN^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|INSU^INSULIN^WinPath^ENDOCRINOLOGY^1^8||11.3|mIU/L|||||F|||||
+OBR|1||0014M005953|EBVA^.EPSTEIN-BARR VIRUS AB S^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|EBVX^Epstein-Barr virus screen^WinPath^IMMUNOLOGY^1^9||.||||||F|||||
+OBX|2|NM|EBVG^EBNA IgG antibody^WinPath^IMMUNOLOGY^2^10||301|U/ml||H|||F|||||
+OBX|3|ST|EBNG^EBV Early Ag ab.(IgG)^WinPath^IMMUNOLOGY^3^11||<5|U/ml|||||F|||||
+OBX|4|ST|EBNM^EBV VCA ab.(IgM)^WinPath^IMMUNOLOGY^4^12||<10|U/ml|||||F|||||
+OBX|5|ST|ECOM^Comment^WinPath^IMMUNOLOGY^5^13||Results suggestive of past ( latent )||||||F|||||
+NTE|1|EBV infection.|
+OBR|1||0014M005953|HSV6^HUMAN HERPES VIRUS - 6^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|HSV6^Human Herpes Virus-6^WinPath^IMMUNOLOGY^1^14||~||||||F|||||
+NTE|1||
+NTE|2|            _HUMAN HERPES VIRUS - 6 SEROLOGY_|
+NTE|3||
+NTE|4|  HHV-6 IgG Ab. [By IFA] = Titre of  1:80|
+NTE|5|  HHV-6 IgM Ab. [by IFA] = Titre of <1:20|
+NTE|6||
+NTE|7|  COMMENT : Results reflect a past [latent] Human Herpes|
+NTE|8|            Virus-6 infection with NO evidence of viral|
+NTE|9|            reactivation.|
+NTE|10||
+NTE|11|            * Viral activity/reactivation is indicated if|
+NTE|12|            an IgG titre of > 1:320 and/or IgM sero -|
+NTE|13|            positivity at a titre of > 1:40 is demonstrated|
+OBR|1||0014M005953|HMD^HAEMOCHROMATOSIS GENETIC^WinPath||20140205|20140205|||||||||DR TASMIN LEWIS^DR TASMIN LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|HMD^Hereditary Haemochromatosis^WinPath^SPECIAL PATHOLOGY^1^15||Pending||||||F|||||

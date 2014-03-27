@@ -1,0 +1,78 @@
+MSH|^~\&|TDL Messaging|TDL|Receiving App|Receiving facility|201401221012||ORU^R01|201401221012000014T056771CUROSEVEN|T|2.3.1|||AL|||||
+PID|||WS05396488||FIELD^PAUL^^^||19730131|M|||^^^^|||||||||||||||||||
+PV1|||CUROSEVEN^CUROSEVEN|||||||||||||||||||||||||||||||||||||||||
+ORC|RE||0014T056771||A||||201401221012|||||||||||
+OBR|1||0014T056771|FBCX^FULL BLOOD COUNT^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|HB^HAEMOGLOBIN^WinPath^HAEMATOLOGY^1^0||13.9|g/dL|||||F|||||
+OBX|2|NM|HCT^HCT^WinPath^HAEMATOLOGY^2^1||0.413||||||F|||||
+OBX|3|NM|RBC^RED CELL COUNT^WinPath^HAEMATOLOGY^3^2||4.77|x10^12/L|||||F|||||
+OBX|4|NM|MCV^MCV^WinPath^HAEMATOLOGY^4^3||86.6|fL|||||F|||||
+OBX|5|NM|MCH^MCH^WinPath^HAEMATOLOGY^5^4||29.1|pg|||||F|||||
+OBX|6|NM|MCHC^MCHC^WinPath^HAEMATOLOGY^6^5||33.7|g/dL|||||F|||||
+OBX|7|NM|RDW^RDW^WinPath^HAEMATOLOGY^7^6||12.7||||||F|||||
+OBX|8|NM|PLTS^PLATELET COUNT^WinPath^HAEMATOLOGY^8^7||216|x10^9/L|||||F|||||
+OBX|9|NM|MPV^MPV^WinPath^HAEMATOLOGY^9^8||9.9|fL|||||F|||||
+OBX|10|NM|WBC^WHITE CELL COUNT^WinPath^HAEMATOLOGY^10^9||5.04|x10^9/L|||||F|||||
+OBX|11|ST|NEUT^  Neutrophils^WinPath^HAEMATOLOGY^11^10||54.1%  2.73|x10^9/L|||||F|||||
+OBX|12|ST|LYMP^  Lymphocytes^WinPath^HAEMATOLOGY^12^11||31.0%  1.56|x10^9/L|||||F|||||
+OBX|13|ST|MONO^  Monocytes^WinPath^HAEMATOLOGY^13^12|| 8.9%  0.45|x10^9/L|||||F|||||
+OBX|14|ST|EOSI^  Eosinophils^WinPath^HAEMATOLOGY^14^13|| 5.4%  0.27|x10^9/L|||||F|||||
+OBX|15|ST|BASO^  Basophils^WinPath^HAEMATOLOGY^15^14|| 0.6%  0.03|x10^9/L|||||F|||||
+OBR|1||0014T056771|ESR^ERYTHROCYTE SEDIMENT RATE^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|ESR^ESR^WinPath^HAEMATOLOGY^1^15||Pending|mm/hr|||||F|||||
+OBR|1||0014T056771|FIB^FIBRINOGEN^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|FIB^Fibrinogen^WinPath^HAEMATOLOGY^1^16||Pending|g/L|||||F|||||
+OBR|1||0014T056771|HOMO^HOMOCYSTEINE QUANTITATIVE^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|HOMO^Homocysteine^WinPath^BIOCHEMISTRY^1^17||Pending|umol/L|||||F|||||
+OBR|1||0014T056771|BIO^BIOCHEMISTRY - TDL^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|BILI^BILIRUBIN^WinPath^BIOCHEMISTRY^1^18||18|umol/L|||||F|||||
+OBX|2|NM|ALP^ALKALINE PHOSPHATASE^WinPath^BIOCHEMISTRY^2^19||80|IU/L|||||F|||||
+OBX|3|NM|AST^ASPARTATE TRANSFERASE^WinPath^BIOCHEMISTRY^3^20||26|IU/L|||||F|||||
+OBX|4|NM|ALT^ALANINE TRANSFERASE^WinPath^BIOCHEMISTRY^4^21||26|IU/L|||||F|||||
+OBX|5|NM|LDH^LDH^WinPath^BIOCHEMISTRY^5^22||151|IU/L|||||F|||||
+OBX|6|NM|CKNA^CK^WinPath^BIOCHEMISTRY^6^23||218|IU/L||H|||F|||||
+OBX|7|NM|GGT^GAMMA GT^WinPath^BIOCHEMISTRY^7^24||16|IU/L|||||F|||||
+OBX|8|ST|PROT^TOTAL PROTEIN^WinPath^BIOCHEMISTRY^8^25||Pending|g/L|||||F|||||
+OBX|9|NM|ALB^ALBUMIN^WinPath^BIOCHEMISTRY^9^26||49|g/L|||||F|||||
+OBX|10|ST|GLOB^GLOBULIN^WinPath^BIOCHEMISTRY^10^27||Pending|g/L|||||F|||||
+OBX|11|NM|CA^CALCIUM^WinPath^BIOCHEMISTRY^11^28||2.62|mmol/L||H|||F|||||
+OBX|12|NM|PHOS^PHOSPHATE^WinPath^BIOCHEMISTRY^12^30||1.05|mmol/L|||||F|||||
+OBX|13|ST|UA^URIC ACID^WinPath^BIOCHEMISTRY^13^31||Pending|umol/L|||||F|||||
+OBX|14|NM|TRI^TRIGLYCERIDES^WinPath^BIOCHEMISTRY^14^33||0.7|mmol/L|||||F|||||
+OBX|15|NM|CHO^CHOLESTEROL^WinPath^BIOCHEMISTRY^15^34||5.7|mmol/L||H|||F|||||
+OBX|16|NM|FE^IRON^WinPath^BIOCHEMISTRY^16^39||15.2|umol/L|||||F|||||
+OBX|17|NM|TIBC^T.I.B.C^WinPath^BIOCHEMISTRY^17^40||55|umol/L|||||F|||||
+OBX|18|NM|FESA^TRANSFERRIN SATURATION^WinPath^BIOCHEMISTRY^18^41||28|%|||||F|||||
+OBR|1||0014T056771|CCA^CORRECTED CALCIUM^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|CCA^Corrected Calcium^WinPath^BIOCHEMISTRY^1^29||2.53|mmol/L|||||F|||||
+OBR|1||0014T056771|RBGS^RANDOM BLOOD GLUCOSE^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|RBGS^BLOOD GLUCOSE (SST)^WinPath^BIOCHEMISTRY^1^32||4.8|mmol/l|||||F|||||
+OBR|1||0014T056771|HDL^HDL CHOLESTEROL^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|HDL^HDL CHOLESTEROL^WinPath^BIOCHEMISTRY^1^35||1.5|mmol/L|||||F|||||
+OBX|2|NM|HCR^HDL % of total^WinPath^BIOCHEMISTRY^2^36||26|%|||||F|||||
+OBX|3|NM|LDL^LDL CHOLESTEROL^WinPath^BIOCHEMISTRY^3^37||3.9|mmol/L||H|||F|||||
+OBR|1||0014T056771|LPOA^LIPOPROTEIN (A)^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|LPOA^LIPOPROTEIN (a)^WinPath^BIOCHEMISTRY^1^38||Pending|g/L|||||F|||||
+OBR|1||0014T056771|FERR^FERRITIN^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|FERR^FERRITIN^WinPath^BIOCHEMISTRY^1^42||122|ug/L|||||F|||||
+OBR|1||0014T056771|HCRP^CRP - HIGH SENSITIVITY^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|HCRP^CRP - High sensitivity^WinPath^BIOCHEMISTRY^1^43||0.4|mg/l|||||F|||||
+OBR|1||0014T056771|GHB^GLYCOSYLATED HB^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|GHB^Haemoglobin A1c^WinPath^BIOCHEMISTRY^1^44||Pending|%|||||F|||||
+OBX|2|ST|GHBI^HbA1c (mmol/mol)^WinPath^BIOCHEMISTRY^2^45||Pending|mmol/mol|||||F|||||
+OBR|1||0014T056771|TSH^TSH^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|TSH^THYROID STIMULATING HORMONE^WinPath^ENDOCRINOLOGY^1^46||1.50|mIU/L|||||F|||||
+OBR|1||0014T056771|FT4^FREE T4^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|FT4^FREE THYROXINE^WinPath^ENDOCRINOLOGY^1^47||18.1|pmol/l|||||F|||||
+OBR|1||0014T056771|CORT^CORTISOL^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|CORT^CORTISOL^WinPath^ENDOCRINOLOGY^1^48||Pending|nmol/l|||||F|||||
+OBX|2|NM|CRTT^Time of sample.^WinPath^ENDOCRINOLOGY^2^49||8.08||||||F|||||
+OBR|1||0014T056771|APOA^APOLIPOPROTEIN A1^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|APOA^Apolipoprotein A1^WinPath^SPECIAL PATHOLOGY^1^50||Pending|g/l|||||F|||||
+OBR|1||0014T056771|APOB^APOLIPOPROTEIN B^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|APOB^Apolipoprotein B^WinPath^SPECIAL PATHOLOGY^1^51||Pending|g/l|||||F|||||
+OBR|1||0014T056771|OMG3^OMEGA 3\T\6^WinPath||20140122|20140122|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|EFA3^Omega 6 / Omega 3 EFA^WinPath^SPECIAL PATHOLOGY^1^52||.||||||F|||||
+OBX|2|ST|EFA1^ARA Omega-6/EPA Omega-3 ratio^WinPath^SPECIAL PATHOLOGY^2^53||Pending||||||F|||||
+OBX|3|ST|EFA2^Comment:^WinPath^SPECIAL PATHOLOGY^3^54||Pending||||||F|||||
+OBX|4|ST|OMG3^Omega 6 / Omega 3 EFA^WinPath^SPECIAL PATHOLOGY^4^55||Pending||||||F|||||

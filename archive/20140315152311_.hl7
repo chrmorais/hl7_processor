@@ -1,0 +1,80 @@
+MSH|^~\&|TDL Messaging|TDL|Receiving App|Receiving facility|201403151523||ORU^R01|20140315152311_|T|2.3.1|||AL|||||
+PID|||WS05474209||VON SALDERN^ULRIKE^^^||19730629|F|||^^^^|||||||||||||||||||
+PV1|||CUROSEVEN^CUROSEVEN||||||T.LEWIS|||||||||||||||||||||||||||||||||||
+ORC|RE||0014T142585||A||||201403151523|||||||||||
+OBR|1||0014T142585|FBCX^FULL BLOOD COUNT^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|HB^HAEMOGLOBIN^WinPath^HAEMATOLOGY^1^0||11.6|g/dL|11.5 - 15.5||||F|||||
+OBX|2|NM|HCT^HCT^WinPath^HAEMATOLOGY^2^1||0.349||0.33 - 0.45||||F|||||
+OBX|3|NM|RBC^RED CELL COUNT^WinPath^HAEMATOLOGY^3^2||3.84|x10^12/L|3.95 - 5.15|L|||F|||||
+OBX|4|NM|MCV^MCV^WinPath^HAEMATOLOGY^4^3||90.9|fL|  80 - 99||||F|||||
+OBX|5|NM|MCH^MCH^WinPath^HAEMATOLOGY^5^4||30.2|pg|26.0 - 33.5||||F|||||
+OBX|6|NM|MCHC^MCHC^WinPath^HAEMATOLOGY^6^5||33.2|g/dL|  30 - 35||||F|||||
+OBX|7|NM|RDW^RDW^WinPath^HAEMATOLOGY^7^6||13.8||11.5 - 15.0||||F|||||
+OBX|8|NM|PLTS^PLATELET COUNT^WinPath^HAEMATOLOGY^8^7||238|x10^9/L|150  - 400||||F|||||
+OBX|9|NM|MPV^MPV^WinPath^HAEMATOLOGY^9^8||12.0|fL|   7 - 13||||F|||||
+OBX|10|NM|WBC^WHITE CELL COUNT^WinPath^HAEMATOLOGY^10^9||5.84|x10^9/L| 3.0 - 10.0||||F|||||
+OBX|11|ST|NEUT^  Neutrophils^WinPath^HAEMATOLOGY^11^10||56.3%  3.29|x10^9/L| 2.0 - 7.5||||F|||||
+OBX|12|ST|LYMP^  Lymphocytes^WinPath^HAEMATOLOGY^12^11||37.2%  2.17|x10^9/L| 1.2 - 3.65||||F|||||
+OBX|13|ST|MONO^  Monocytes^WinPath^HAEMATOLOGY^13^12|| 5.8%  0.34|x10^9/L| 0.2 - 1.0||||F|||||
+OBX|14|ST|EOSI^  Eosinophils^WinPath^HAEMATOLOGY^14^13|| 0.5%  0.03|x10^9/L| 0.0 - 0.4||||F|||||
+OBX|15|ST|BASO^  Basophils^WinPath^HAEMATOLOGY^15^14|| 0.2%  0.01|x10^9/L| 0.0 - 0.1||||F|||||
+NTE|1|All cell populations appear normal.|
+OBR|1||0014T142585|B12^VITAMIN B12 (ACTIVE)^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|AB12^Active B12^WinPath^HAEMATOLOGY^1^15||Pending|pmol/L|||||F|||||
+OBR|1||0014T142585|FOLA^FOLATE (SERUM)^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|FOLA^Folate (serum)^WinPath^HAEMATOLOGY^1^16||10.3|ug/L| 4.6 - 18.7||||F|||||
+OBR|1||0014T142585|U/E^.UREA \T\ ELECTROLYTES.^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|NA^SODIUM^WinPath^BIOCHEMISTRY^1^17||141|mmol/L| 135 - 145||||F|||||
+OBX|2|NM|K^POTASSIUM^WinPath^BIOCHEMISTRY^2^18||4.6|mmol/L| 3.5 - 5.1||||F|||||
+OBX|3|NM|CL^CHLORIDE^WinPath^BIOCHEMISTRY^3^19||106|mmol/L|  98 - 107||||F|||||
+OBX|4|NM|HCO3^BICARBONATE^WinPath^BIOCHEMISTRY^4^20||26|mmol/l|  22 - 29||||F|||||
+OBX|5|NM|UREA^UREA^WinPath^BIOCHEMISTRY^5^21||3.2|mmol/L| 1.7 - 8.3||||F|||||
+OBX|6|NM|CREA^CREATININE^WinPath^BIOCHEMISTRY^6^23||67|umol/L|  49 - 92||||F|||||
+OBR|1||0014T142585|GFR^GFR^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|CREA^CREATININE^WinPath^BIOCHEMISTRY^1^22||67|umol/L|  49 - 92||||F|||||
+OBX|2|ST|GFR^estimated GFR^WinPath^BIOCHEMISTRY^2^24||>90|.|||||F|||||
+NTE|1|For UK guidelines:www.renal.org/CKDguide/ckd.html|
+OBR|1||0014T142585|BIO^BIOCHEMISTRY - TDL^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|BILI^BILIRUBIN^WinPath^BIOCHEMISTRY^1^25||9|umol/L|   0 - 20||||F|||||
+OBX|2|NM|ALP^ALKALINE PHOSPHATASE^WinPath^BIOCHEMISTRY^2^26||71|IU/L|  35 - 104||||F|||||
+OBX|3|NM|AST^ASPARTATE TRANSFERASE^WinPath^BIOCHEMISTRY^3^27||14|IU/L|   0 - 31||||F|||||
+OBX|4|NM|ALT^ALANINE TRANSFERASE^WinPath^BIOCHEMISTRY^4^28||13|IU/L|  10 - 35||||F|||||
+OBX|5|NM|LDH^LDH^WinPath^BIOCHEMISTRY^5^29||139|IU/L| 135 - 214||||F|||||
+OBX|6|NM|CKNA^CK^WinPath^BIOCHEMISTRY^6^30||59|IU/L|  26 - 140||||F|||||
+OBX|7|NM|GGT^GAMMA GT^WinPath^BIOCHEMISTRY^7^31||11|IU/L|   6 - 42||||F|||||
+OBX|8|NM|PROT^TOTAL PROTEIN^WinPath^BIOCHEMISTRY^8^32||61|g/L|  63 - 83|L|||F|||||
+OBX|9|NM|ALB^ALBUMIN^WinPath^BIOCHEMISTRY^9^33||39|g/L|  34 - 50||||F|||||
+OBX|10|NM|GLOB^GLOBULIN^WinPath^BIOCHEMISTRY^10^34||22|g/L|  19 - 35||||F|||||
+OBX|11|NM|CA^CALCIUM^WinPath^BIOCHEMISTRY^11^35||2.30|mmol/L|2.20 - 2.60||||F|||||
+OBX|12|NM|PHOS^PHOSPHATE^WinPath^BIOCHEMISTRY^12^37||1.11|mmol/L|0.87 - 1.45||||F|||||
+OBX|13|NM|UA^URIC ACID^WinPath^BIOCHEMISTRY^13^38||204|umol/L| 175 - 363||||F|||||
+OBX|14|ST|RBG^RANDOM BLOOD GLUCOSE (FL)^WinPath^BIOCHEMISTRY^14^39||Pending|mmol/L|||||F|||||
+OBX|15|NM|TRI^TRIGLYCERIDES^WinPath^BIOCHEMISTRY^15^40||0.8|mmol/L|< 2.3||||F|||||
+OBX|16|NM|CHO^CHOLESTEROL^WinPath^BIOCHEMISTRY^16^41||5.6|mmol/L|Optimum <5.0|H|||F|||||
+OBX|17|NM|FE^IRON^WinPath^BIOCHEMISTRY^17^45||24.0|umol/L| 6.6 - 26.0||||F|||||
+OBX|18|NM|TIBC^T.I.B.C^WinPath^BIOCHEMISTRY^18^46||72|umol/L|  41 - 77||||F|||||
+OBX|19|NM|FESA^TRANSFERRIN SATURATION^WinPath^BIOCHEMISTRY^19^47||33|%|  20 - 55||||F|||||
+OBR|1||0014T142585|CCA^CORRECTED CALCIUM^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|CCA^Corrected Calcium^WinPath^BIOCHEMISTRY^1^36||2.43|mmol/L|2.20 - 2.60||||F|||||
+NTE|1|Please note change in reference range for calcium|
+NTE|2|and adjusted calcium, effective 10/03/14.|
+OBR|1||0014T142585|HDL^HDL CHOLESTEROL^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|HDL^HDL CHOLESTEROL^WinPath^BIOCHEMISTRY^1^42||3.3|mmol/L| 1.2 - 1.7|H|||F|||||
+OBX|2|NM|HCR^HDL % of total^WinPath^BIOCHEMISTRY^2^43||59|%|20 and over||||F|||||
+OBX|3|NM|LDL^LDL CHOLESTEROL^WinPath^BIOCHEMISTRY^3^44||1.9|mmol/L|Up to 3.0||||F|||||
+OBR|1||0014T142585|FERR^FERRITIN^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|FERR^FERRITIN^WinPath^BIOCHEMISTRY^1^48||49|ug/L|  13 - 150||||F|||||
+NTE|1|Optimum Ferritin level for females : >27 ug/L|
+OBR|1||0014T142585|TSH^TSH^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|TSH^THYROID STIMULATING HORMONE^WinPath^ENDOCRINOLOGY^1^49||0.95|mIU/L|0.27 - 4.2||||F|||||
+OBR|1||0014T142585|FT4^FREE T4^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|FT4^FREE THYROXINE^WinPath^ENDOCRINOLOGY^1^50||15.2|pmol/l|12.0 - 22.0||||F|||||
+OBR|1||0014T142585|VITD^VITAMIN D^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|VIDC^25 OH Vitamin D^WinPath^ENDOCRINOLOGY^1^51||43|nmol/L| 50 - 200|L|||F|||||
+NTE|1|Interpretation of results:|
+NTE|2|Deficient                 <25 nmol/L|
+NTE|3|Insufficient          25 - 49 nmol/L|
+NTE|4|Normal Range         50 - 200 nmol/L|
+NTE|5|Consider reducing dose   >200 nmol/L|
+OBR|1||0014T142585|FTES^TESTOSTERONE - FREE^WinPath||20140315|20140315|||||||||T.LEWIS^T.LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|TESF^Free Testosterone^WinPath^SPECIAL PATHOLOGY^1^52||Pending|pg/ml|||||F|||||

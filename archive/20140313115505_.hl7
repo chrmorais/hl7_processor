@@ -1,0 +1,47 @@
+MSH|^~\&|TDL Messaging|TDL|Receiving App|Receiving facility|201403131155||ORU^R01|20140313115505_|T|2.3.1|||AL|||||
+PID|||WS05470303||BLOOM^STEPHANIE^^^||19750111|F|||^^^^|||||||||||||||||||
+PV1|||CUROSEVEN^CUROSEVEN||||||LEWIS|||||||||||||||||||||||||||||||||||
+ORC|RE||0014T162491||A||||201403131155|||||||||||
+OBR|1||0014T162491|RBG^RANDOM BLOOD GLUCOSE^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|RBG^RANDOM BLOOD GLUCOSE (FL)^WinPath^BIOCHEMISTRY^1^0||5.7|mmol/L| 3.5 - 7.9||||F|||||
+OBR|1||0014T162491|LIPP^.LIPID PROFILE^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|TRI^TRIGLYCERIDES^WinPath^BIOCHEMISTRY^1^1||1.0|mmol/L|< 2.3||||F|||||
+OBX|2|NM|CHO^CHOLESTEROL^WinPath^BIOCHEMISTRY^2^2||5.0|mmol/L|Optimum <5.0|H|||F|||||
+OBX|3|NM|HDL^HDL CHOLESTEROL^WinPath^BIOCHEMISTRY^3^3||1.4|mmol/L| 1.2 - 1.7||||F|||||
+OBX|4|NM|HCR^HDL % of total^WinPath^BIOCHEMISTRY^4^4||28|%|20 and over||||F|||||
+OBX|5|NM|LDL^LDL CHOLESTEROL^WinPath^BIOCHEMISTRY^5^5||3.1|mmol/L|Up to 3.0|H|||F|||||
+OBR|1||0014T162491|HCRP^CRP - HIGH SENSITIVITY^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|HCRP^CRP - High sensitivity^WinPath^BIOCHEMISTRY^1^6||Pending|mg/l|||||F|||||
+OBR|1||0014T162491|GHB^GLYCOSYLATED HB^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|GHB^Haemoglobin A1c^WinPath^BIOCHEMISTRY^1^7||Pending|%|||||F|||||
+OBX|2|ST|GHBI^HbA1c (mmol/mol)^WinPath^BIOCHEMISTRY^2^8||Pending|mmol/mol|||||F|||||
+OBR|1||0014T162491|TSH^TSH^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|TSH^THYROID STIMULATING HORMONE^WinPath^ENDOCRINOLOGY^1^9||Pending|mIU/L|||||F|||||
+OBR|1||0014T162491|FT4^FREE T4^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|FT4^FREE THYROXINE^WinPath^ENDOCRINOLOGY^1^10||Pending|pmol/l|||||F|||||
+OBR|1||0014T162491|FT3^FREE T3^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|FT3^FREE T3^WinPath^ENDOCRINOLOGY^1^11||Pending|pmol/L|||||F|||||
+OBR|1||0014T162491|LH^LUTEINISING HORMONE^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|LH^LUTEINISING HORMONE^WinPath^ENDOCRINOLOGY^1^12||Pending|IU/L|||||F|||||
+OBR|1||0014T162491|PROG^PROGESTERONE^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|PROG^PROGESTERONE^WinPath^ENDOCRINOLOGY^1^13||Pending|nmol/L|||||F|||||
+OBR|1||0014T162491|OEST^OESTRADIOL^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|OEST^17-Beta OESTRADIOL^WinPath^ENDOCRINOLOGY^1^14||Pending|pmol/L|||||F|||||
+OBR|1||0014T162491|CORT^CORTISOL^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|CORT^CORTISOL^WinPath^ENDOCRINOLOGY^1^15||Pending|nmol/l|||||F|||||
+OBX|2|NM|CRTT^Time of sample.^WinPath^ENDOCRINOLOGY^2^16||08.30||||||F|||||
+OBR|1||0014T162491|VITD^VITAMIN D^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|VIDC^25 OH Vitamin D^WinPath^ENDOCRINOLOGY^1^17||Pending|nmol/L|||||F|||||
+OBR|1||0014T162491|INSU^INSULIN^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|INSU^INSULIN^WinPath^ENDOCRINOLOGY^1^18||Pending|mIU/L|||||F|||||
+OBR|1||0014T162491|THAB^THYROID ANTIBODIES^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|THAB^THYROID ANTIBODIES^WinPath^IMMUNOLOGY^1^19||.||||||F|||||
+OBX|2|ST|COLL^Thyroglobulin Antibody^WinPath^IMMUNOLOGY^2^20||Pending|IU/mL|||||F|||||
+OBX|3|ST|THMA^Thyroid Peroxidase Antibodies^WinPath^IMMUNOLOGY^3^21||Pending|IU/mL|||||F|||||
+OBR|1||0014T162491|FTES^TESTOSTERONE - FREE^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|TESF^Free Testosterone^WinPath^SPECIAL PATHOLOGY^1^22||Pending|pg/ml|||||F|||||
+OBR|1||0014T162491|LEPT^LEPTIN^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|LEPT^Leptin^WinPath^SPECIAL PATHOLOGY^1^23||Pending||||||F|||||
+OBX|2|ST|HAW^Height and Weight^WinPath^SPECIAL PATHOLOGY^2^24||Pending||||||F|||||
+OBR|1||0014T162491|ADIP^ADIPONECTIN - SERUM^WinPath||20140313|20140313|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|ADIP^Adiponectin - Serum^WinPath^SPECIAL PATHOLOGY^1^25||Pending|ug/ml|||||F|||||

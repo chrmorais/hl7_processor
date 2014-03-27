@@ -1,0 +1,7 @@
+MSH|^~\&|TDL Messaging|TDL|Receiving App|Receiving facility|201403251101||ORU^R01|20140325110116_|T|2.3.1|||AL|||||
+PID|||WS05487812||LUNN^PAUL^^^||19721026|M|||^^^^|||||||||||||||||||
+PV1|||CUROSEVEN^CUROSEVEN||||||LEWIS|||||||||||||||||||||||||||||||||||
+ORC|RE||0014T142797||A||||201403251101|||||||||||
+OBR|1||0014T142797|CORT^CORTISOL^WinPath||20140325|20140325|||||||||LEWIS^LEWIS||||||||TDL|I||||||||||||||||||||
+OBX|1|ST|CORT^CORTISOL^WinPath^ENDOCRINOLOGY^1^0||Pending|nmol/l|||||F|||||
+OBX|2|ST|CRTT^Time of sample.^WinPath^ENDOCRINOLOGY^2^1||Pending||||||F|||||
